@@ -27,7 +27,7 @@ public class MultipleEmailTest {
         userRegistration = new UserRegistration();
     }
 
-    @Parameterized.Parameters
+    @Parameterized.Parameters 
     public static Collection<Object[]> data() {
         return Arrays.asList(new Object[][] {
                 {"abc@yahoo.com", true},

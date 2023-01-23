@@ -160,5 +160,4 @@ public class UserRegistrationTest {
             System.out.println(e);
         }
     }
-
 }

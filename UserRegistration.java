@@ -74,4 +74,4 @@ public class UserRegistration {
             throw new InvalidUserException(InvalidUserException.ExceptionType.ENTERED_NULL, "Please don't pass null value");
         }
     }
-}
+} 
